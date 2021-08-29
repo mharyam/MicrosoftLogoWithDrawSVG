@@ -1,3 +1,3 @@
 # MicrosoftLogoWithDrawSVG
 
-### Used drawSVG library to create microsft logo
+### Use drawSVG library to create microsft logo
